@@ -9,8 +9,6 @@ The system includes basic banking operations.
 Designed for a single user, with no need for branch or account identification. It provides a simple yet functional user experience, allowing for deposits and withdrawals.
 
 ## How to Use
-**Clone the repo**
-
 Clone the repository to your local machine using Git:
 ```bash
 git clone https://github.com/steyukie/simple-banking-system.git
